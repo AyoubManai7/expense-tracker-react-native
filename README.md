@@ -17,9 +17,24 @@ A simple, clean mobile expense tracking app built from scratch with React Native
 
 ## Screenshots (real Android phone)
 
-| Home – No expenses               | Home – With expenses             | Add Expense                      |
+| Home                 | 
+|  | <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/7689704e-fa7f-4c32-a19a-289954a139c7" />  
+
+
+| Home - delete expenses                    |
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/80d14384-489f-457b-a755-4d21d4b33333" />
+
+
+| Add Expense                      |
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/5d611866-7942-42ae-9906-8123e176ff54" />
+<img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/cfe7759b-093b-46cf-a212-402ca7471d48" />
+
 |----------------------------------|----------------------------------|----------------------------------|
-| ![Home empty](./screenshots/phone-home-empty.png) | ![Home list](./screenshots/phone-home-list.png) | ![Add](./screenshots/phone-add.png) |
+
+
+|
+| ![Add](./screenshots/phone-add.png) |
+
 
 ## How to Run
 ```bash
