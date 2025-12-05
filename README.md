@@ -1,25 +1,26 @@
 # Expense Tracker – React Native + Expo
 
-A clean and simple mobile expense tracking app built from scratch with React Native and Expo.
+A simple, clean mobile expense tracking app built from scratch with React Native and Expo.
 
 ## Features
 - Add new expenses (title + amount in TND)
-- View all expenses on the home screen
-- **Delete any expense** with a single tap
-- Real-time total calculation
-- Responsive UI that works on Android & iOS
-- Fully functional – no backend needed (local state)
+- View all expenses with real-time total
+- **Delete any expense** with one tap
+- Fully working on real Android devices
+- Clean and responsive UI
 
 ## Tech Stack
 - React Native
 - Expo
-- React Navigation (@react-navigation/native + stack)
+- React Navigation
 - JavaScript
 
-## Screenshots
-| Home Screen (with expenses)              | Add Expense Screen                     |
-|------------------------------------------|----------------------------------------|
-| ![Home](./screenshots/home.png)          | ![Add](./screenshots/add.png)          |
+## Screenshots (real Android phone)
+
+| Home – No expenses               | Home – With expenses             | Add Expense                      |
+|----------------------------------|----------------------------------|----------------------------------|
+| ![Home empty](./screenshots/phone-home-empty.png) | ![Home list](./screenshots/phone-home-list.png) | ![Add](./screenshots/phone-add.png) |
+
 ## How to Run
 ```bash
 git clone https://github.com/AyoubManai7/expense-tracker-react-native.git
