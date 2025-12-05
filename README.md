@@ -18,6 +18,16 @@ A simple, clean mobile expense tracking app built from scratch with React Native
 ## Screenshots (real Android phone)
 
 | Home                 | 
+
+
+
+
+
+
+
+
+
+
 |  | <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/7689704e-fa7f-4c32-a19a-289954a139c7" />  
 
 
