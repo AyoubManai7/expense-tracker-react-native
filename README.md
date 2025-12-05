@@ -32,10 +32,32 @@ A simple, clean mobile expense tracking app built from scratch with React Native
 
 
 | Home - delete expenses                    |
+
+
+
+
+
+
+
+
+
+|
+
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/80d14384-489f-457b-a755-4d21d4b33333" />
 
 
 | Add Expense                      |
+
+
+
+
+
+
+
+
+
+|
+
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/5d611866-7942-42ae-9906-8123e176ff54" />
 <img width="540" height="1200" alt="image" src="https://github.com/user-attachments/assets/cfe7759b-093b-46cf-a212-402ca7471d48" />
 
