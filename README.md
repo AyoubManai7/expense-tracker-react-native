@@ -65,7 +65,7 @@ A simple, clean mobile expense tracking app built from scratch with React Native
 
 
 |
-| ![Add](./screenshots/phone-add.png) |
+
 
 
 ## How to Run
